@@ -18,3 +18,13 @@ Clinical data spanning 10 years from 130 US hospitals with over 50 features rela
 **URL:** https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 A comprehensive collection of demographic and medical data uploaded by Mustafa Yaşar in 2023, designed specifically for diabetes prediction modeling.
+
+# Notes
+Please make sure the following packages are installed:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
+- xgboost
+- graphviz
