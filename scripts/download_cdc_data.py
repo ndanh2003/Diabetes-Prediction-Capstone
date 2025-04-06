@@ -7,4 +7,4 @@ X = cdc_diabetes_health_indicators.data.features
 y = cdc_diabetes_health_indicators.data.targets
 
 full_data = pd.concat([X, y], axis=1)
-full_data.to_csv('../raw_data/cdc_dataset.csv', index=False)
+full_data.to_csv('../data/cdc_dataset.csv', index=False)

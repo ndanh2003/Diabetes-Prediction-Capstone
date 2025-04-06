@@ -1,0 +1,29 @@
+{
+    "best_model": "xgboost",
+    "timestamp": "2025-04-06T16:29:35.609329",
+    "roc_auc": 0.8225514269744175,
+    "pr_auc": 0.4115789185433135,
+    "model_comparison": [
+        {
+            "Model": "xgboost",
+            "ROC AUC": 0.8225514269744175,
+            "PR AUC": 0.4115789185433135
+        },
+        {
+            "Model": "random_forest",
+            "ROC AUC": 0.8164980650654865,
+            "PR AUC": 0.3947240277073262
+        },
+        {
+            "Model": "decision_tree",
+            "ROC AUC": 0.7930440445506606,
+            "PR AUC": 0.41836239062276204
+        }
+    ],
+    "model_type": "XGBClassifier",
+    "num_features_count": 21,
+    "cat_features_count": 0,
+    "total_features_count": 21,
+    "n_estimators": 100,
+    "max_depth": 5
+}
