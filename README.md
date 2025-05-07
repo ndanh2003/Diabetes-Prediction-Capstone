@@ -1,4 +1,4 @@
-# A Transparent Approach to Predicting Diabetes
+# Interpretable Machine Learning for Diabetes Prediction
 
 Vasu Gatne, Nick Danh, Ethan Mauger, Eric Uehling
 
